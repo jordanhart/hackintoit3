@@ -44,7 +44,7 @@ export default class CardImageExample extends Component {
                 </Button>
               </Body>
               <Right>
-                <Text>Points earned: 1024</Text>
+                <Text>Bee-Points: 1024</Text>
               </Right>
             </CardItem>
           </Card>
@@ -75,7 +75,7 @@ export default class CardImageExample extends Component {
                 </Button>
               </Body>
               <Right>
-                <Text>Points earned: 240</Text>
+                <Text>Bee-Points: 240</Text>
               </Right>
             </CardItem>
           </Card>
@@ -106,7 +106,7 @@ export default class CardImageExample extends Component {
                 </Button>
               </Body>
               <Right>
-                <Text>Points earned: 2048</Text>
+                <Text>Bee-Points: 2048</Text>
               </Right>
             </CardItem>
           </Card>
@@ -137,7 +137,7 @@ export default class CardImageExample extends Component {
                 </Button>
               </Body>
               <Right>
-                <Text>Points earned: 2048</Text>
+                <Text>Bee-Points: 2048</Text>
               </Right>
             </CardItem>
           </Card>
@@ -168,7 +168,7 @@ export default class CardImageExample extends Component {
                 </Button>
               </Body>
               <Right>
-                <Text>Points earned: 634</Text>
+                <Text>Bee-Points: 634</Text>
               </Right>
             </CardItem>
           </Card>
